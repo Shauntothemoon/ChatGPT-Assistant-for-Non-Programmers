@@ -5,7 +5,7 @@ As someone with no background in computer science or programming experience, I s
 
 Inspired by this author's ideas (https://pinchlime.com/newsletters/my-six-chatgpt-assistants/), it can provide different types of services, such as summarizing a long piece of text, generating related sub-issues around a topic, and helping you think critically about a topic.
 
-In the code, I have also left clear positions where you can easily edit the type of assistant you want and the model type (if you want others). All you need to do is replace the text.
+In the code, I have also left clear positions where you can easily edit the type of assistant you want and the model type (if you want others). All you need to do is replacing the text.
 
 To use it, all you need to do is:
 
