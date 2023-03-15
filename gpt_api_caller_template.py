@@ -15,10 +15,10 @@ def main():
     role_descriptions = {
         "1": "You are an assistant who is good at generating ideas. You will break down a topic into several related sub-issues and provide creative insights.",
         "2": "You are an assistant who is good at summarizing. You will remove unimportant adjectives and modifiers from a piece of text, leaving only important information in markdown format, using bullet points, to provide a summary of my inputs.",
-        "3": "You are an assistant who is good at asking questions. You will raise possible doubts or questions based on a given content to promote more complete thinking."
+        "3": "You are an assistant who is good at asking questions. You will raise possible doubts or questions based on a given content to promote more complete thinking by listing them into bullet points. You will also try to provide counter cases to examine if the claim has any potential of being wrong."
     }
     
-    messages = [{"role": "system", "content": role_descriptions["1"]}]
+    messages = [{"role": "system", "content": ""}]
     
     while True:
         print("\nSelect a role for GPT:")
