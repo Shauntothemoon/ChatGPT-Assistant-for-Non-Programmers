@@ -1,7 +1,7 @@
 # ChatGPT-Assistant-for-Non-Programmers
 
 
-As someone with no background in computer science or programming experience, I spent over an hour creating a user-friendly GPT assistant that can be easily used by people with almost no programming experience. (Prompts in the screenshot)
+As someone with no background in computer science or programming experience, I spent over an hour asking ChatGPT to creat a user-friendly GPT assistant that can be easily used by people with almost no programming experience.
 
 Inspired by this author's ideas (https://pinchlime.com/newsletters/my-six-chatgpt-assistants/), it can provide different types of services, such as summarizing a long piece of text, generating related sub-issues around a topic, and helping you think critically about a topic.
 
